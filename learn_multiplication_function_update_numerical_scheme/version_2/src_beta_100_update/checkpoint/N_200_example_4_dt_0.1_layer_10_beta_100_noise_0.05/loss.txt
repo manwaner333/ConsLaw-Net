@@ -1,0 +1,1599 @@
+C:\Users\47486\anaconda3\python.exe C:/Users/47486/Documents/Code/ConsLawPublic/learn_multiplication_function_update_numerical_scheme/version_2/src_beta_100_update/learn_function_1d.py
+该层的结构：[2, 1]
+该层参数和：2
+该层的结构：[2]
+该层参数和：2
+该层的结构：[2, 2]
+该层参数和：4
+该层的结构：[2]
+该层参数和：2
+该层的结构：[2, 3]
+该层参数和：6
+该层的结构：[2]
+该层参数和：2
+该层的结构：[1, 4]
+该层参数和：4
+该层的结构：[1]
+该层参数和：1
+总参数数量和：23
+adjust max_f_prime
+max_f_prime 1.240000, dt 0.029851, time_steps 67.000000, m 1.240000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.029850746268656716
+pre_time_step:
+[0, 3, 7, 10, 13, 17, 20, 23, 27, 30]
+data loss0 0.062049, stable loss 0.000000, sparse loss 0.072534, max_f_prime loss 1.232259,
+ This problem is unconstrained.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           23     M =          500
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  6.20491D-02    |proj g|=  1.11834D-01
+adjust max_f_prime
+max_f_prime 1.830000, dt 0.020202, time_steps 99.000000, m 1.830000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.020202020202020204
+pre_time_step:
+[0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
+data loss0 0.010748, stable loss 0.000000, sparse loss 0.070966, max_f_prime loss 1.820170,
+C:\Users\47486\Documents\Code\ConsLawPublic\learn_multiplication_function_update_numerical_scheme\version_2\src_beta_100_update\aTEAM\optim\PGManager.py:195: UserWarning: volatile was removed (Variable.volatile is always False)
+  if p.grad.volatile:
+
+At iterate    1    f=  1.07483D-02    |proj g|=  2.10516D-02
+adjust max_f_prime
+max_f_prime 1.440000, dt 0.025641, time_steps 78.000000, m 1.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.02564102564102564
+pre_time_step:
+[0, 4, 8, 12, 16, 20, 23, 27, 31, 35]
+data loss0 0.008794, stable loss 0.000000, sparse loss 0.069854, max_f_prime loss 1.432880,
+
+At iterate    2    f=  8.79382D-03    |proj g|=  2.89846D-03
+adjust max_f_prime
+max_f_prime 1.430000, dt 0.025974, time_steps 77.000000, m 1.430000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.025974025974025976
+pre_time_step:
+[0, 4, 8, 12, 15, 19, 23, 27, 31, 35]
+data loss0 0.008698, stable loss 0.000000, sparse loss 0.069966, max_f_prime loss 1.420877,
+
+At iterate    3    f=  8.69771D-03    |proj g|=  2.62163D-03
+adjust max_f_prime
+max_f_prime 1.480000, dt 0.025000, time_steps 80.000000, m 1.480000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.025
+pre_time_step:
+[0, 4, 8, 12, 16, 20, 24, 28, 32, 36]
+data loss0 0.008072, stable loss 0.000000, sparse loss 0.070873, max_f_prime loss 1.468165,
+
+At iterate    4    f=  8.07169D-03    |proj g|=  7.07783D-03
+adjust max_f_prime
+max_f_prime 1.930000, dt 0.019231, time_steps 104.000000, m 1.930000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 0.005043, stable loss 0.000000, sparse loss 0.074062, max_f_prime loss 1.916614,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 0.089244, max_f_prime loss 10.253791,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 0.186822, max_f_prime loss 24431.539888,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 0.635072, max_f_prime loss 281851125122.360535,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 2.437074, max_f_prime loss 637867253872975020032.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 9.681886, max_f_prime loss 839680827202772183957033189376.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 38.661136, max_f_prime loss 949525641410671345981539337003723653120.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 154.578134, max_f_prime loss 1032883004768975020174079719583659548664857100288.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 618.246128, max_f_prime loss 1112662502818905307836473277708442687652374865322797170688.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 2472.918101, max_f_prime loss 1195684271665974898326788632531910594799416760884367684053520875520.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 9891.605993, max_f_prime loss 1284117279440073726145503686581415540995970681673771371800583396270771535872.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 39566.357564, max_f_prime loss 1378880519853041665609264290669463623844188473105689112969814262440331019109680545792.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 158265.363846, max_f_prime loss 1480580499770807348415029687886783051264909984844649636596907959260727469409893404415574933504.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 633061.388973, max_f_prime loss 1589766257142565461947229870682415474115627635916812149466159810165220676029840429427263334865214373888.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 2532245.489484, max_f_prime loss 1706999876478562114857010408909692508673281317368266353433746918194236573329868811504164578993179964964077568000.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 10128981.891525, max_f_prime loss 1832877524883027243246232903437855597551657352874246103193047908833856283360078255733491570090514946457393712583334166528.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 40515927.499688, max_f_prime loss 1968037354432308772783422762051499939146074062427453319331236852859229487010194723670141699112684934494296270893319934213907021824.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019230769230769232
+pre_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+data loss0 nan, stable loss 0.000000, sparse loss 70750121.070734, max_f_prime loss 8424698603271335421687066591039640042517089564226543736250425933071762127623285871113715309021514486831114683315401539440196911628288.000000,
+adjust max_f_prime
+max_f_prime 1.510000, dt 0.024390, time_steps 82.000000, m 1.510000,
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.024390243902439025
+pre_time_step:
+[0, 4, 8, 12, 16, 20, 25, 29, 33, 37]
+data loss0 0.007846, stable loss 0.000000, sparse loss 0.071012, max_f_prime loss 1.504770,
+
+At iterate    5    f=  7.84624D-03    |proj g|=  5.56698D-03
+adjust max_f_prime
+max_f_prime 1.790000, dt 0.020833, time_steps 96.000000, m 1.790000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.020833333333333332
+pre_time_step:
+[0, 5, 10, 14, 19, 24, 29, 34, 38, 43]
+data loss0 0.006517, stable loss 0.000000, sparse loss 0.072157, max_f_prime loss 1.781894,
+
+At iterate    6    f=  6.51737D-03    |proj g|=  5.65181D-03
+adjust max_f_prime
+max_f_prime 1.870000, dt 0.019802, time_steps 101.000000, m 1.870000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019801980198019802
+pre_time_step:
+[0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
+data loss0 0.006035, stable loss 0.000000, sparse loss 0.072594, max_f_prime loss 1.859785,
+adjust max_f_prime
+max_f_prime 2.260000, dt 0.016393, time_steps 122.000000, m 2.260000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 0.004204, stable loss 0.000000, sparse loss 0.074343, max_f_prime loss 2.247846,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 0.081535, max_f_prime loss 5.869631,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 0.116182, max_f_prime loss 371.760527,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 0.312908, max_f_prime loss 21833450.574471,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 1.128322, max_f_prime loss 439554462525535.687500,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 4.389978, max_f_prime loss 122946004433746450710528.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 17.436600, max_f_prime loss 89824256861988477671884082642944.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 69.623088, max_f_prime loss 87238568795666909489680955715951473459200.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 278.369040, max_f_prime loss 91325274408101325755703402700295673383426870738944.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 1113.352851, max_f_prime loss 97438088947175127176741660307588504364551417791593291186176.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 4453.288093, max_f_prime loss 104457016216058296390799027633974158719895009396329012377520221192192.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 17813.029063, max_f_prime loss 112115253393021615636352558182644638880545813188024132824709938564527577628672.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 71251.992940, max_f_prime loss 120370863219573784866035398064086554603834017291517126254345307998643888412183188471808.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 285007.848448, max_f_prime loss 129244016293858933059893124887407978353890924838967266013714135754089756142536373591878045532160.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 1140031.270481, max_f_prime loss 138773843073114012083081859993560528613857850401489173077283799393275025268548661725290214810790280560640.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 4560124.958612, max_f_prime loss 149007047800022182135316599867338737184660277705800021432351866685221640750148952663893476438600710131663922790400.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 nan, stable loss 0.000000, sparse loss 7963026.189010, max_f_prime loss 637863492711746610981375337328539784794401518906481551859586576135823687377046062392218579001224247724973084301590528.000000,
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+adjust max_f_prime
+max_f_prime 1.780000, dt 0.020833, time_steps 96.000000, m 1.780000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.020833333333333332
+pre_time_step:
+[0, 5, 10, 14, 19, 24, 29, 34, 38, 43]
+data loss0 0.006434, stable loss 0.000000, sparse loss 0.072179, max_f_prime loss 1.771137,
+
+At iterate    7    f=  6.43369D-03    |proj g|=  4.48146D-03
+adjust max_f_prime
+max_f_prime 1.790000, dt 0.020833, time_steps 96.000000, m 1.790000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.020833333333333332
+pre_time_step:
+[0, 5, 10, 14, 19, 24, 29, 34, 38, 43]
+data loss0 0.005887, stable loss 0.000000, sparse loss 0.072730, max_f_prime loss 1.784895,
+
+At iterate    8    f=  5.88716D-03    |proj g|=  6.81118D-03
+adjust max_f_prime
+max_f_prime 1.920000, dt 0.019417, time_steps 103.000000, m 1.920000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 0.005233, stable loss 0.000000, sparse loss 0.073454, max_f_prime loss 1.905255,
+
+At iterate    9    f=  5.23313D-03    |proj g|=  1.25814D-02
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 0.079972, max_f_prime loss 4.925590,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 0.116872, max_f_prime loss 474.618741,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 0.329087, max_f_prime loss 52410779.825995,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 1.205438, max_f_prime loss 1453606557807849.250000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 4.710842, max_f_prime loss 454039592561260437176320.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 18.732457, max_f_prime loss 342955602361851813035866241105920.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 74.818918, max_f_prime loss 336054091056498006256462221169719729192960.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 299.164762, max_f_prime loss 352592267319383966431354751618388646956116398309376.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 1196.548138, max_f_prime loss 376406350961817236819217095451871147710053207431550278303744.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 4786.081643, max_f_prime loss 403577984729904086068889667834915291024967245661464442438502670401536.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 19144.215661, max_f_prime loss 433181573876714569403820782970623250340427306182830786356171108129923095592960.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 76576.751733, max_f_prime loss 465083040020647372470435080748715717793980793974998187212822296581147132434829235191808.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 306306.896021, max_f_prime loss 499367802171554271498803752860475044387045505281973918083429765822621459377100188846910886379520.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 1225227.473174, max_f_prime loss 536189058906358226606741564859464069730707243347547280019283766002405439107667850879072791629687724965888.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 4900909.783174, max_f_prime loss 575727803193089621618178022667529234654401574652593127279876076701147426689142355898289920775907822545516227461120.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 19603639.052710, max_f_prime loss 618182802773222857034129162379321312830417862074025410534265199816591968081517725091307757772331244746218331270210316664832.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 78414556.130852, max_f_prime loss 663768671493608359792136306701752728327193347521109956374232625912453044631731135003201219173756588716546563568480814392583085096960.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.019417475728155338
+pre_time_step:
+[0, 5, 10, 15, 21, 26, 31, 36, 41, 46]
+data loss0 nan, stable loss 0.000000, sparse loss 136929836.803009, max_f_prime loss 2841435340148047172878889402187727850972350118552195190679264419251283844449082464212549724599694120869407832313738155891648354393784320.000000,
+adjust max_f_prime
+max_f_prime 2.010000, dt 0.018519, time_steps 108.000000, m 2.010000,
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.018518518518518517
+pre_time_step:
+[0, 5, 11, 16, 22, 27, 32, 38, 43, 49]
+data loss0 0.004612, stable loss 0.000000, sparse loss 0.073657, max_f_prime loss 2.002307,
+
+At iterate   10    f=  4.61169D-03    |proj g|=  6.59634D-03
+adjust max_f_prime
+max_f_prime 2.260000, dt 0.016393, time_steps 122.000000, m 2.260000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01639344262295082
+pre_time_step:
+[0, 6, 12, 18, 24, 30, 37, 43, 49, 55]
+data loss0 0.003846, stable loss 0.000000, sparse loss 0.074257, max_f_prime loss 2.252385,
+
+At iterate   11    f=  3.84637D-03    |proj g|=  5.11671D-03
+adjust max_f_prime
+max_f_prime 2.380000, dt 0.015625, time_steps 128.000000, m 2.380000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.015625
+pre_time_step:
+[0, 6, 13, 19, 26, 32, 38, 45, 51, 58]
+data loss0 0.003472, stable loss 0.000000, sparse loss 0.074612, max_f_prime loss 2.370326,
+adjust max_f_prime
+max_f_prime 2.950000, dt 0.012658, time_steps 158.000000, m 2.950000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 0.002564, stable loss 0.000000, sparse loss 0.076034, max_f_prime loss 2.944166,
+
+At iterate   12    f=  2.56353D-03    |proj g|=  1.76790D-02
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 0.078876, max_f_prime loss 4.386751,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 0.092129, max_f_prime loss 22.803616,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 0.162350, max_f_prime loss 217687.745813,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 0.517098, max_f_prime loss 1793566777833.846680,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 1.939589, max_f_prime loss 314125650522150600704.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 7.634716, max_f_prime loss 204937021088281280054074277888.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 30.438152, max_f_prime loss 193771828289907497971253953026263613440.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 121.651896, max_f_prime loss 201518793991272628113817654946314487446026321920.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 486.506869, max_f_prime loss 214655751623952700517857753108066202825507945931874500608.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 1945.926763, max_f_prime loss 230024405498976096293537611530426519463726421197759575751579926528.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 7783.606339, max_f_prime loss 246863368093146199385255761010966401772378089453008565060775304168652931072.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 31134.324644, max_f_prime loss 265034392736156196246666569694939603388204018495467319543526669672970202244964155392.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 124537.197864, max_f_prime loss 284569619558904432346899996657507967355589907947944509307640846184725915803317527619496312832.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 498148.690742, max_f_prime loss 305551915282569507481233198577589553393929854094479650995711713667309740953700531864835455506802802688.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 1992594.662254, max_f_prime loss 328083230068879329773173392255177644568311829926885948372602823390962990953737303361301526075726704520816754688.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 7970378.548301, max_f_prime loss 352276513871889229713973494943464640877802529896015258707470791987981197472500038913634024820464171040412637012437237760.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 31881514.092489, max_f_prime loss 378253980384646001844635011397878083041681190646376412913260831712785731149185342324913367938958019128726747575129333152215990272.000000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 nan, stable loss 0.000000, sparse loss 55672450.834291, max_f_prime loss 1619215049505002831674481213429955461403795417738055990210250349228546382285271778524000257340763316507265712338976157034351782002688.000000,
+adjust max_f_prime
+max_f_prime 2.800000, dt 0.013333, time_steps 150.000000, m 2.800000,
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.013333333333333334
+pre_time_step:
+[0, 8, 15, 23, 30, 38, 45, 52, 60, 68]
+data loss0 0.001991, stable loss 0.000000, sparse loss 0.075966, max_f_prime loss 2.792473,
+
+At iterate   13    f=  1.99103D-03    |proj g|=  3.83543D-03
+adjust max_f_prime
+max_f_prime 2.830000, dt 0.013158, time_steps 152.000000, m 2.830000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.013157894736842105
+pre_time_step:
+[0, 8, 15, 23, 30, 38, 46, 53, 61, 68]
+data loss0 0.001933, stable loss 0.000000, sparse loss 0.076035, max_f_prime loss 2.819685,
+adjust max_f_prime
+max_f_prime 2.940000, dt 0.012658, time_steps 158.000000, m 2.940000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012658227848101266
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 47, 55, 63, 71]
+data loss0 0.001751, stable loss 0.000000, sparse loss 0.076311, max_f_prime loss 2.932701,
+
+At iterate   14    f=  1.75077D-03    |proj g|=  5.75283D-03
+adjust max_f_prime
+max_f_prime 3.570000, dt 0.010471, time_steps 191.000000, m 3.570000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010471204188481676
+pre_time_step:
+[0, 10, 19, 29, 38, 48, 57, 67, 76, 86]
+data loss0 0.001589, stable loss 0.000000, sparse loss 0.077411, max_f_prime loss 3.563044,
+
+At iterate   15    f=  1.58859D-03    |proj g|=  8.47510D-03
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001464, stable loss 0.000000, sparse loss 0.077088, max_f_prime loss 3.430215,
+
+At iterate   16    f=  1.46374D-03    |proj g|=  2.58225D-03
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077106, max_f_prime loss 3.428068,
+
+At iterate   17    f=  1.45742D-03    |proj g|=  1.97257D-04
+adjust max_f_prime
+max_f_prime 3.460000, dt 0.010753, time_steps 186.000000, m 3.460000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010752688172043012
+pre_time_step:
+[0, 9, 19, 28, 37, 46, 56, 65, 74, 84]
+data loss0 0.001461, stable loss 0.000000, sparse loss 0.077142, max_f_prime loss 3.448329,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077107, max_f_prime loss 3.429031,
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001460, stable loss 0.000000, sparse loss 0.077126, max_f_prime loss 3.439606,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077108, max_f_prime loss 3.429413,
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001460, stable loss 0.000000, sparse loss 0.077120, max_f_prime loss 3.436136,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077108, max_f_prime loss 3.429565,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077116, max_f_prime loss 3.433901,
+
+At iterate   18    f=  1.45713D-03    |proj g|=  1.89412D-04
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001458, stable loss 0.000000, sparse loss 0.077135, max_f_prime loss 3.442580,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077118, max_f_prime loss 3.434940,
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001459, stable loss 0.000000, sparse loss 0.077129, max_f_prime loss 3.439982,
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001460, stable loss 0.000000, sparse loss 0.077119, max_f_prime loss 3.435267,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077118, max_f_prime loss 3.434941,
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001460, stable loss 0.000000, sparse loss 0.077119, max_f_prime loss 3.435156,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077118, max_f_prime loss 3.434942,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077118, max_f_prime loss 3.434942,
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001460, stable loss 0.000000, sparse loss 0.077119, max_f_prime loss 3.435049,
+adjust max_f_prime
+max_f_prime 3.440000, dt 0.010870, time_steps 184.000000, m 3.440000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001457, stable loss 0.000000, sparse loss 0.077118, max_f_prime loss 3.434942,
+
+At iterate   19    f=  1.45692D-03    |proj g|=  1.96491D-04
+adjust max_f_prime
+max_f_prime 3.450000, dt 0.010811, time_steps 185.000000, m 3.450000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010810810810810811
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 56, 65, 74, 83]
+data loss0 0.001454, stable loss 0.000000, sparse loss 0.077150, max_f_prime loss 3.441467,
+
+At iterate   20    f=  1.45383D-03    |proj g|=  3.53687D-04
+adjust max_f_prime
+max_f_prime 3.430000, dt 0.010870, time_steps 184.000000, m 3.430000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.010869565217391304
+pre_time_step:
+[0, 9, 18, 28, 37, 46, 55, 64, 74, 83]
+data loss0 0.001443, stable loss 0.000000, sparse loss 0.077142, max_f_prime loss 3.417311,
+
+At iterate   21    f=  1.44272D-03    |proj g|=  4.94252D-04
+adjust max_f_prime
+max_f_prime 3.230000, dt 0.011561, time_steps 173.000000, m 3.230000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.011560693641618497
+pre_time_step:
+[0, 9, 17, 26, 35, 43, 52, 61, 69, 78]
+data loss0 0.001387, stable loss 0.000000, sparse loss 0.077075, max_f_prime loss 3.224933,
+
+At iterate   22    f=  1.38705D-03    |proj g|=  1.25138D-03
+adjust max_f_prime
+max_f_prime 2.910000, dt 0.012821, time_steps 156.000000, m 2.910000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.01282051282051282
+pre_time_step:
+[0, 8, 16, 23, 31, 39, 47, 55, 62, 70]
+data loss0 0.001360, stable loss 0.000000, sparse loss 0.077446, max_f_prime loss 2.904953,
+adjust max_f_prime
+max_f_prime 3.180000, dt 0.011696, time_steps 171.000000, m 3.180000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.011695906432748537
+pre_time_step:
+[0, 9, 17, 26, 34, 43, 51, 60, 68, 77]
+data loss0 0.001380, stable loss 0.000000, sparse loss 0.077093, max_f_prime loss 3.166155,
+
+At iterate   23    f=  1.37978D-03    |proj g|=  7.10519D-04
+adjust max_f_prime
+max_f_prime 3.050000, dt 0.012195, time_steps 164.000000, m 3.050000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012195121951219513
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 49, 57, 66, 74]
+data loss0 0.001343, stable loss 0.000000, sparse loss 0.077309, max_f_prime loss 3.037904,
+adjust max_f_prime
+max_f_prime 3.130000, dt 0.011905, time_steps 168.000000, m 3.130000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.011904761904761904
+pre_time_step:
+[0, 8, 17, 25, 34, 42, 50, 59, 67, 76]
+data loss0 0.001350, stable loss 0.000000, sparse loss 0.077160, max_f_prime loss 3.121474,
+
+At iterate   24    f=  1.34960D-03    |proj g|=  1.42786D-03
+adjust max_f_prime
+max_f_prime 3.070000, dt 0.012121, time_steps 165.000000, m 3.070000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012121212121212121
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 50, 58, 66, 74]
+data loss0 0.001341, stable loss 0.000000, sparse loss 0.077263, max_f_prime loss 3.057417,
+
+At iterate   25    f=  1.34097D-03    |proj g|=  6.46399D-04
+adjust max_f_prime
+max_f_prime 3.080000, dt 0.012121, time_steps 165.000000, m 3.080000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012121212121212121
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 50, 58, 66, 74]
+data loss0 0.001341, stable loss 0.000000, sparse loss 0.077267, max_f_prime loss 3.065204,
+adjust max_f_prime
+max_f_prime 3.070000, dt 0.012121, time_steps 165.000000, m 3.070000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012121212121212121
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 50, 58, 66, 74]
+data loss0 0.001341, stable loss 0.000000, sparse loss 0.077264, max_f_prime loss 3.059365,
+
+At iterate   26    f=  1.34066D-03    |proj g|=  5.15152D-04
+adjust max_f_prime
+max_f_prime 3.070000, dt 0.012121, time_steps 165.000000, m 3.070000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012121212121212121
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 50, 58, 66, 74]
+data loss0 0.001339, stable loss 0.000000, sparse loss 0.077321, max_f_prime loss 3.060126,
+
+At iterate   27    f=  1.33933D-03    |proj g|=  2.36602D-04
+adjust max_f_prime
+max_f_prime 3.060000, dt 0.012195, time_steps 164.000000, m 3.060000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012195121951219513
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 49, 57, 66, 74]
+data loss0 0.001336, stable loss 0.000000, sparse loss 0.077377, max_f_prime loss 3.052366,
+
+At iterate   28    f=  1.33586D-03    |proj g|=  1.45337D-04
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077546, max_f_prime loss 3.022921,
+
+At iterate   29    f=  1.33109D-03    |proj g|=  9.22100D-04
+adjust max_f_prime
+max_f_prime 2.970000, dt 0.012579, time_steps 159.000000, m 2.970000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012578616352201259
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 48, 56, 64, 72]
+data loss0 0.001335, stable loss 0.000000, sparse loss 0.077910, max_f_prime loss 2.955933,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001330, stable loss 0.000000, sparse loss 0.077646, max_f_prime loss 3.005644,
+
+At iterate   30    f=  1.32953D-03    |proj g|=  5.84299D-05
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077604, max_f_prime loss 3.019122,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001330, stable loss 0.000000, sparse loss 0.077645, max_f_prime loss 3.005925,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001330, stable loss 0.000000, sparse loss 0.077644, max_f_prime loss 3.006393,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077624, max_f_prime loss 3.012778,
+
+At iterate   31    f=  1.32947D-03    |proj g|=  4.90231D-05
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077593, max_f_prime loss 3.020292,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077623, max_f_prime loss 3.012861,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077603, max_f_prime loss 3.017775,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077623, max_f_prime loss 3.012896,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077623, max_f_prime loss 3.012904,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077623, max_f_prime loss 3.012896,
+
+At iterate   32    f=  1.32947D-03    |proj g|=  4.89236D-05
+adjust max_f_prime
+max_f_prime 3.040000, dt 0.012270, time_steps 163.000000, m 3.040000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001332, stable loss 0.000000, sparse loss 0.077569, max_f_prime loss 3.028018,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077622, max_f_prime loss 3.013170,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077587, max_f_prime loss 3.023002,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077621, max_f_prime loss 3.013377,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077619, max_f_prime loss 3.014162,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077603, max_f_prime loss 3.018595,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077618, max_f_prime loss 3.014203,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077618, max_f_prime loss 3.014215,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077611, max_f_prime loss 3.016408,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077618, max_f_prime loss 3.014225,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077613, max_f_prime loss 3.015667,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077618, max_f_prime loss 3.014229,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077618, max_f_prime loss 3.014229,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077618, max_f_prime loss 3.014229,
+
+At iterate   33    f=  1.32945D-03    |proj g|=  4.80172D-05
+adjust max_f_prime
+max_f_prime 3.050000, dt 0.012195, time_steps 164.000000, m 3.050000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012195121951219513
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 49, 57, 66, 74]
+data loss0 0.001334, stable loss 0.000000, sparse loss 0.077558, max_f_prime loss 3.035807,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077617, max_f_prime loss 3.014586,
+adjust max_f_prime
+max_f_prime 3.040000, dt 0.012270, time_steps 163.000000, m 3.040000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077578, max_f_prime loss 3.028643,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014917,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001330, stable loss 0.000000, sparse loss 0.077591, max_f_prime loss 3.023997,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.015165,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014917,
+
+At iterate   34    f=  1.32944D-03    |proj g|=  4.76360D-05
+adjust max_f_prime
+max_f_prime 3.060000, dt 0.012195, time_steps 164.000000, m 3.060000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012195121951219513
+pre_time_step:
+[0, 8, 16, 25, 33, 41, 49, 57, 66, 74]
+data loss0 0.001335, stable loss 0.000000, sparse loss 0.077564, max_f_prime loss 3.046870,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077615, max_f_prime loss 3.015871,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014921,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+
+At iterate   35    f=  1.32944D-03    |proj g|=  4.76365D-05
+adjust max_f_prime
+max_f_prime 3.260000, dt 0.011429, time_steps 175.000000, m 3.260000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.011428571428571429
+pre_time_step:
+[0, 9, 18, 26, 35, 44, 53, 61, 70, 79]
+data loss0 0.001412, stable loss 0.000000, sparse loss 0.077564, max_f_prime loss 3.246468,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001330, stable loss 0.000000, sparse loss 0.077610, max_f_prime loss 3.021849,
+adjust max_f_prime
+max_f_prime 3.030000, dt 0.012270, time_steps 163.000000, m 3.030000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012269938650306749
+pre_time_step:
+[0, 8, 16, 24, 33, 41, 49, 57, 65, 73]
+data loss0 0.001331, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.015131,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+adjust max_f_prime
+max_f_prime 3.020000, dt 0.012346, time_steps 162.000000, m 3.020000,
+obs_time_step:
+[0, 6, 13, 19, 26, 32, 39, 45, 52, 58]
+dt
+0.012345679012345678
+pre_time_step:
+[0, 8, 16, 24, 32, 40, 49, 57, 65, 73]
+data loss0 0.001329, stable loss 0.000000, sparse loss 0.077616, max_f_prime loss 3.014918,
+
+ Warning:  more than 10 function and gradient
+   evaluations in the last line search.  Termination
+   may possibly be caused by a bad search direction.
+
+At iterate   36    f=  1.32944D-03    |proj g|=  4.76365D-05
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   23     36    183      5     0     0   4.764D-05   1.329D-03
+  F =   1.3294359669089317E-003
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH
+poly0.layer0.weight : Parameter containing:
+tensor([[0.5556],
+        [0.0453]], dtype=torch.float64, requires_grad=True)
+poly0.layer0.bias : Parameter containing:
+tensor([-0.0264,  1.5541], dtype=torch.float64, requires_grad=True)
+poly0.layer1.weight : Parameter containing:
+tensor([[-0.3779, -0.0665],
+        [ 0.3509,  1.1294]], dtype=torch.float64, requires_grad=True)
+poly0.layer1.bias : Parameter containing:
+tensor([ 1.6956, -0.6409], dtype=torch.float64, requires_grad=True)
+poly0.layer2.weight : Parameter containing:
+tensor([[-0.4669,  0.9561, -1.2184],
+        [ 1.0153,  0.6606, -0.2952]], dtype=torch.float64, requires_grad=True)
+poly0.layer2.bias : Parameter containing:
+tensor([-0.6942, -0.9323], dtype=torch.float64, requires_grad=True)
+poly0.layer_final.weight : Parameter containing:
+tensor([[ 0.6782, -0.2989,  0.3220,  0.6268]], dtype=torch.float64,
+       requires_grad=True)
+poly0.layer_final.bias : Parameter containing:
+tensor([1.0307], dtype=torch.float64, requires_grad=True)
+(2.659564218824421)*u+(-1.7935777070805652)*u**2+(0.401837846702848)*1+(0.07377824241800972)*u**4+(0.041249139124282484)*u**3+(0.0037252419838028853)*u**5+(6.014230829225837e-05)*u**6
+0
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH
+
+Process finished with exit code 0

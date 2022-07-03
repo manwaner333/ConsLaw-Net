@@ -1,0 +1,35 @@
+--M: 0.11
+--N: 400
+--T: 40.0
+--X: 10.0
+--batch_size: 1
+--constraint: moment
+--device: cpu
+--dt: 0.169492
+--dx: 0.025
+--end_noise_level: 0.015
+--initfreq: 4
+--interp_degree: 4
+--interp_mesh_size: 20
+--layer: 15
+--max_order: 4
+--maxiter: 255
+--nonlinear_interp_degree: 4
+--nonlinear_interp_mesh_bound:
+- - 0
+- - 0.999
+--nonlinear_interp_mesh_size:
+- 20
+--precision: double
+--recordcycle: 10
+--recordfile: convergence
+--repeatnum: 25
+--savecycle: 10000
+--start_noise_level: 0.015
+--taskdescriptor: N_400_example_1_dt_0.6_layer_15_beta_5
+--teststepnum: 80
+--time_steps: 236
+--variant_coe_magnitude: 1.0
+--xn: 50
+--yn: 50
+

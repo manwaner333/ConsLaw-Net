@@ -1,0 +1,183 @@
+C:\Users\47486\anaconda3\python.exe C:/Users/47486/Documents/Code/ConsLawPublic/learn_multiplication_function_update_numerical_scheme/src_beta_50/learn_function_1d.py
+该层的结构：[2, 1]
+该层参数和：2
+该层的结构：[2]
+该层参数和：2
+该层的结构：[2, 2]
+该层参数和：4
+该层的结构：[2]
+该层参数和：2
+该层的结构：[2, 3]
+该层参数和：6
+该层的结构：[2]
+该层参数和：2
+该层的结构：[1, 4]
+该层参数和：4
+该层的结构：[1]
+该层参数和：1
+总参数数量和：23
+adjust max_f_prime
+max_f_prime 1.240000, dt 0.029851, time_steps 67.000000, m 1.240000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.029850746268656716
+pre_time_step:
+[0, 3, 7, 10, 13, 17, 20, 23, 27, 30]
+data loss0 0.038784, stable loss 0.016661, sparse loss 0.072534, max_f_prime loss 1.232259,
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           23     M =          500
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  3.87835D-02    |proj g|=  9.65182D-02
+adjust max_f_prime
+max_f_prime 1.850000, dt 0.020000, time_steps 100.000000, m 1.850000,
+ This problem is unconstrained.
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.02
+pre_time_step:
+[0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
+data loss0 0.007783, stable loss 0.013691, sparse loss 0.071068, max_f_prime loss 1.839305,
+C:\Users\47486\Documents\Code\ConsLawPublic\learn_multiplication_function_update_numerical_scheme\src_beta_50\aTEAM\optim\PGManager.py:195: UserWarning: volatile was removed (Variable.volatile is always False)
+  if p.grad.volatile:
+
+At iterate    1    f=  7.78328D-03    |proj g|=  1.72615D-02
+adjust max_f_prime
+max_f_prime 1.480000, dt 0.025000, time_steps 80.000000, m 1.480000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.025
+pre_time_step:
+[0, 4, 8, 12, 16, 20, 24, 28, 32, 36]
+data loss0 0.005363, stable loss 0.004666, sparse loss 0.070175, max_f_prime loss 1.472168,
+
+At iterate    2    f=  5.36302D-03    |proj g|=  8.39033D-03
+adjust max_f_prime
+max_f_prime 1.310000, dt 0.028169, time_steps 71.000000, m 1.310000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.028169014084507043
+pre_time_step:
+[0, 4, 7, 11, 14, 18, 21, 25, 28, 32]
+data loss0 0.004974, stable loss 0.013191, sparse loss 0.070093, max_f_prime loss 1.301668,
+
+At iterate    3    f=  4.97420D-03    |proj g|=  3.51401D-03
+adjust max_f_prime
+max_f_prime 1.260000, dt 0.029412, time_steps 68.000000, m 1.260000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.029411764705882353
+pre_time_step:
+[0, 3, 7, 10, 14, 17, 20, 24, 27, 31]
+data loss0 0.004668, stable loss 0.015556, sparse loss 0.070701, max_f_prime loss 1.254362,
+
+At iterate    4    f=  4.66846D-03    |proj g|=  3.32722D-03
+adjust max_f_prime
+max_f_prime 1.400000, dt 0.026316, time_steps 76.000000, m 1.400000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.02631578947368421
+pre_time_step:
+[0, 4, 8, 11, 15, 19, 23, 27, 30, 34]
+data loss0 0.003505, stable loss 0.008841, sparse loss 0.072150, max_f_prime loss 1.388666,
+
+At iterate    5    f=  3.50471D-03    |proj g|=  7.93780D-03
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.02631578947368421
+pre_time_step:
+[0, 4, 8, 11, 15, 19, 23, 27, 30, 34]
+data loss0 0.014433, stable loss 0.359107, sparse loss 0.085916, max_f_prime loss 8.747621,
+adjust max_f_prime
+max_f_prime 2.840000, dt 0.013158, time_steps 152.000000, m 2.840000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.013157894736842105
+pre_time_step:
+[0, 8, 15, 23, 30, 38, 46, 53, 61, 68]
+data loss0 0.001793, stable loss 0.063001, sparse loss 0.077526, max_f_prime loss 2.825509,
+adjust max_f_prime
+max_f_prime 1.900000, dt 0.019608, time_steps 102.000000, m 1.900000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.0196078431372549
+pre_time_step:
+[0, 5, 10, 15, 20, 26, 31, 36, 41, 46]
+data loss0 0.001541, stable loss 0.016162, sparse loss 0.074719, max_f_prime loss 1.888716,
+
+At iterate    6    f=  1.54078D-03    |proj g|=  1.24901D-02
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.0196078431372549
+pre_time_step:
+[0, 5, 10, 15, 20, 26, 31, 36, 41, 46]
+data loss0 0.076326, stable loss 0.558385, sparse loss 0.088599, max_f_prime loss 12.733179,
+adjust max_f_prime
+max_f_prime 1.900000, dt 0.019608, time_steps 102.000000, m 1.900000,
+obs_time_step:
+[0, 5, 10, 16, 21, 26, 31, 36, 42, 47]
+dt
+0.0196078431372549
+pre_time_step:
+[0, 5, 10, 15, 20, 26, 31, 36, 41, 46]
+data loss0 0.001541, stable loss 0.016162, sparse loss 0.074719, max_f_prime loss 1.888716,
+
+At iterate    7    f=  1.54078D-03    |proj g|=  1.24901D-02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   23      7     11      1     0     0   1.249D-02   1.541D-03
+  F =   1.5407792525365949E-003
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH
+poly0.layer0.weight : Parameter containing:
+tensor([[ 0.4869],
+        [-0.1045]], dtype=torch.float64, requires_grad=True)
+poly0.layer0.bias : Parameter containing:
+tensor([0.0512, 1.5127], dtype=torch.float64, requires_grad=True)
+poly0.layer1.weight : Parameter containing:
+tensor([[-0.4747, -0.1711],
+        [ 0.2905,  1.0978]], dtype=torch.float64, requires_grad=True)
+poly0.layer1.bias : Parameter containing:
+tensor([ 1.6081, -0.6483], dtype=torch.float64, requires_grad=True)
+poly0.layer2.weight : Parameter containing:
+tensor([[-0.4088,  0.9946, -1.1735],
+        [ 0.9397,  0.5979, -0.2606]], dtype=torch.float64, requires_grad=True)
+poly0.layer2.bias : Parameter containing:
+tensor([-0.6564, -0.9295], dtype=torch.float64, requires_grad=True)
+poly0.layer_final.weight : Parameter containing:
+tensor([[ 0.5926, -0.3353,  0.2830,  0.4102]], dtype=torch.float64,
+       requires_grad=True)
+poly0.layer_final.bias : Parameter containing:
+tensor([1.0307], dtype=torch.float64, requires_grad=True)
+(1.664608477307555)*u+(-1.1108251398118711)*u**2+(0.624074023148764)*1+(0.1634853109305384)*u**3+(0.04834769995501153)*u**4+(-0.007146805773518939)*u**5+(0.00031399448750205956)*u**6+(-5.25021335977202e-06)*u**7
+0
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH
+
+Process finished with exit code 0

@@ -1,0 +1,60 @@
+ut + alpha * f(u)_x = 0
+
+一. learn_division_function_update_numerical_scheme
+f(u) = u^2/(u^2 + beta(1-u)^2)
+1. src_beta_0.5
+探索的是在alpha = 0.05， beta = 0.5, T \in (0, 40) , N = 400
+
+2. src_beta_0.5_N_1000
+探索的是在alpha = 0.05，beta = 0.5, T \in (0, 40) , N = 1000
+
+3. src_beta_1.5
+探索的是在alpha = 0.05，beta = 1.5, T \in (0, 40) , N = 400,
+
+4. src_beta_0.5_no_alpha_N_400
+探索的是在alpha = 1.0，beta = 0.5, T \in (0, 2.0) , N = 400,
+
+
+5.src_beta_0.5_no_alpha_N_800
+探索的是在alpha = 1.0，beta = 0.5, T \in (0, 2.0) , N = 800,
+
+
+6. src_beta_0.5_no_alpha_N_1000
+探索的是在alpha = 1.0，beta = 0.5, T \in (0, 2.0) , N = 1000,
+
+7. src_multiplication_beta_10
+探索f(u) =  1/2u(3 - u^2) + beta/12 u^2 (3/4 - 2u + 3/2 u^2 - 1/4 u^4) 在beta=10, 用S-Net-D的效果
+
+8. src_multiplication_beta_120
+探索f(u) =  1/2u(3 - u^2) + beta/12 u^2 (3/4 - 2u + 3/2 u^2 - 1/4 u^4) 在beta=120, 用S-Net-D的效果
+
+
+二、learn_multiplication_function_update_numerical_scheme
+f(u) =  1/2u(3 - u^2) + beta/12 u^2 (3/4 - 2u + 3/2 u^2 - 1/4 u^4)
+version_2基于version_1的基础上进行的修正，去掉learn_function_1d.py里面没有用的传入参数，同时去掉根据M构建的stable_loss. 论文里面的实验是根据version_2得出来的。
+两个版本的numerical scheme版本都是论文Learning from data the nonlinear flux function of a hidden scalar conservation law中描述的.
+
+1. src_beta_10_update
+有好的效果， 用于实验
+2. src_beta_100_update
+有好的效果， 没有用于实验
+3. src_beta_120_update
+有好的效果， 用于实验
+4. src_beta_200_update
+有好的效果， 用于实验
+5. src_beta_300_update
+有好的效果， 用于实验
+6. src_beta_400_update
+没有好的效果， 没有用于实验
+7.src_beta_negative_100_update
+有好的效果， 用于实验
+8.src_beta_negative_200_update
+有好的效果， 用于实验
+9. src_beta_negative_300_update
+没有好的效果， 没有用于实验
+10. src_division_beta_0.5
+f(u) = u^2/(u^2 + beta(1-u)^2) 用S-Net-M的效果
+
+
+
+
