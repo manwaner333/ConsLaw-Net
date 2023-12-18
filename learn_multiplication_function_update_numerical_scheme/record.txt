@@ -1,3 +1,0 @@
-（1）这个版本中， u_t + lambda * f(u)_x = 0
-其中lambda 和 f(u) 函数没有分开， 两个一起进行学习。
-（2）这里面增加了一个stableloss.

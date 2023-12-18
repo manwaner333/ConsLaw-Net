@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConsLawNet0.iml" filepath="$PROJECT_DIR$/ConsLawNet0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsLawNet.iml" filepath="$PROJECT_DIR$/ConsLawNet.iml" />
     </modules>
   </component>
 </project>

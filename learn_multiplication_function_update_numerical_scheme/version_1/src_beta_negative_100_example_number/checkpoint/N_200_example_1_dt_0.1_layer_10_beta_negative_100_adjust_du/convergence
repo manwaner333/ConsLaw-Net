@@ -1,9 +1,0 @@
-
-
-current stage is: layer-10
-iter:     0    time: 2.40
-Func: 7.23e-03  |g|: 3.95e-02
-current expression:
-[u, 1, u**2, u**3, u**4]
-[ 1.16430494e+00  4.82898656e-01 -3.49288271e-03  1.64797926e-04
- -5.74565806e-06]
